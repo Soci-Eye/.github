@@ -1,7 +1,4 @@
-# .github
-
-Soci-Eye
-Introducing Soci-Eye!
+# Soci-Eye!
 
 A cutting-edge service designed to help individuals and companies track customer feedback on their new products or campaigns across the internet.
 
