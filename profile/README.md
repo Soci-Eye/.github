@@ -8,6 +8,15 @@ Our comprehensive solution integrates our AI model and an advanced tweet-scrapin
 
 And with a nominal payment and just by one click, you can access more options, making the monitoring process and sentiment analyses instantly up-to-date!
 
+
+## High Level Design
+![HLD](https://github.com/Soci-Eye/.github/assets/113524665/76116c35-9634-4951-94cc-51007fd6198b)
+
+
+## Low Level Design
+![LLD](https://github.com/Soci-Eye/.github/assets/113524665/22aa9a25-fd4a-44ad-93e2-4a3955e16c8f)
+
+
 ## Ai work
 1. Cleaning and preparing tweet data for analysis.
 2. Develop an AI model using NLP techniques and machine learning
@@ -32,7 +41,7 @@ subscription details securely.
 5. Developing web scraping scripts to collect relevant tweets from
 Twitter based on specified search criteria.
 
-## Mobile Application
+## Mobile Application work
 1. Develop a user-friendly mobile application for Android Platform
 and IOS platform.
 2. Secure login functionality for users to access the application.
