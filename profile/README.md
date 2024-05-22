@@ -20,11 +20,9 @@ And with a nominal payment and just by one click, you can access more options, m
 ## Ai work
 1. Cleaning and preparing tweet data for analysis.
 2. Develop an AI model using NLP techniques and machine learning
-algorithms like LSTM or BERT for sentiment analysis.
-3. Use the trained model to predict sentiment (positive, negative,
-neutral) for the tweets.
-4. Visualize the sentiment analysis results with pie charts or bar
-graphs to show the distribution of sentiments.
+algorithms (LSTM) for sentiment analysis.
+3. Use the trained model to predict sentiment (positive, negative) for the tweets.
+4. Visualize the sentiment analysis results with pie charts to show the classification of sentiments.
 5. Display sentiment trends over time to highlight fluctuations in
 sentiment towards a specific product or brand.
 6. Create word clouds to visualize the most common words
@@ -40,6 +38,7 @@ handle requests.
 subscription details securely.
 5. Developing web scraping scripts to collect relevant tweets from
 Twitter based on specified search criteria.
+
 
 ## Mobile Application work
 1. Develop a user-friendly mobile application for Android Platform
